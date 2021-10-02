@@ -1,0 +1,58 @@
+Listings {
+    background-color: #888888;
+    width: 100%;
+}
+Artist {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 10pt;
+}
+ArtistName {
+    display: block;
+    color: #eeeeee;
+    font-size: 20pt;
+    margin-left: 5pt;
+}
+Genre {
+    display: block;
+    color: #222222;
+    font-size: 20pt;
+    margin-left: 10pt;
+}
+Title, Year {
+    display: block;
+    color: #0ff0ff;
+    margin-left: 20pt;
+}
+
+heading {
+    display: block;
+    color: #fa0000;
+    font-size: 28pt;
+    text-align:center;
+}
+
+reference {
+    display: block;
+    color: #faaaa0;
+    font-size: 15pt;
+    text-align:center; 
+}
+ArtistT {
+    display: block;
+    text-align:center;
+}
+ArtistNameT {
+    display: block;
+    color: #eeeeee;
+    font-size: 20pt;
+}
+GenreT {
+    display: block;
+    color: #222222;
+    font-size: 20pt;
+}
+TitleT, YearT {
+    display: block;
+    color: #0ff0ff;
+}
