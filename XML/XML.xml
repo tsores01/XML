@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="CSS.css"?>
+<Listings>
+	<heading>Cover Band Set List Playlist Comp20 HW3</heading>
+	<reference>Template Reference</reference>
+	<Listing>
+		<ArtistT>
+			<ArtistNameT>ArtistName</ArtistNameT>
+			<GenreT>Genre</GenreT>
+			<TitleT>SongTitle</TitleT>
+			<YearT>ReleaseYear</YearT>
+		</ArtistT>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Tupac</ArtistName>
+			<Genre>Rap</Genre>
+			<Title>Dear Mama</Title>
+			<Year>1995</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Tupac</ArtistName>
+			<Genre>Rap</Genre>
+			<Title>Hail Mary</Title>
+			<Year>1996</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Tupac</ArtistName>
+			<Genre>Rap</Genre>
+			<Title>Life Goes On</Title>
+			<Year>1996</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Tupac</ArtistName>
+			<Genre>Rap</Genre>
+			<Title>Nothing to Lose</Title>
+			<Year>1997</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Coldplay</ArtistName>
+			<Genre>Rock</Genre>
+			<Title>The Scientist</Title>
+			<Year>2002</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Coldplay</ArtistName>
+			<Genre>Rock</Genre>
+			<Title>Clocks</Title>
+			<Year>2003</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Coldplay</ArtistName>
+			<Genre>Rock</Genre>
+			<Title>Fix You</Title>
+			<Year>2005</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Coldplay</ArtistName>
+			<Genre>Rock</Genre>
+			<Title>Viva la Vida</Title>
+			<Year>2008</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Johnny Cash</ArtistName>
+			<Genre>Country/Rock</Genre>
+			<Title>Ring of Fire</Title>
+			<Year>1963</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Johnny Cash</ArtistName>
+			<Genre>Country/Rock</Genre>
+			<Title>Papa Was a Good Man</Title>
+			<Year>1971</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Johnny Cash</ArtistName>
+			<Genre>Country/Rock</Genre>
+			<Title>(Ghost) Riders in the Sky</Title>
+			<Year>1978</Year>
+		</Artist>
+	</Listing>
+	<Listing>
+		<Artist>
+			<ArtistName>Johnny Cash</ArtistName>
+			<Genre>Country/Rock</Genre>
+			<Title>Hurt</Title>
+			<Year>2003</Year>
+		</Artist>
+	</Listing>
+</Listings>
